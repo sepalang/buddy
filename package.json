@@ -1,0 +1,32 @@
+{
+  "name": "buddy",
+  "version": "0.0.1",
+  "description": " Simple static web replication transformer",
+  "main": "index.js",
+  "bin": {
+    "buddy": "bin/buddy.js"
+  },
+  "scripts": {
+    "test": "my buddy init"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sepalang/buddy.git"
+  },
+  "keywords": [
+    "static",
+    "web"
+  ],
+  "author": "AHN HO JUNG",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sepalang/buddy/issues"
+  },
+  "homepage": "https://github.com/sepalang/buddy#readme",
+  "devDependencies": {
+    "@sepalang/myself": "^0.3.0"
+  },
+  "dependencies": {
+    "recursive-copy": "^2.0.10"
+  }
+}

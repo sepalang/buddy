@@ -1,0 +1,4 @@
+just type 
+```
+buddy init
+```
